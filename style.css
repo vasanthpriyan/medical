@@ -1,0 +1,49 @@
+.logo1
+{
+    margin-top: -200px;
+    margin-left: 190px;
+    height: 165px;
+    width: 165px;
+}
+.dr1{
+    height: 165px;
+    width: 165px;
+ 
+}
+.dr-container
+{
+    margin-left: 1000px;
+    margin-top: -170px;
+    height: 165px;
+    width: 165px;
+}
+.drName
+{
+    position:absolute ;
+    top: 140px;
+    left: 534px;
+}
+.div1
+{
+    position: relative;
+    
+}
+.para1
+{
+    width: 600px;
+    position: absolute;
+    top: 280px;
+    left: 700px;
+    font-size: 18px;
+    
+}
+.img1
+{
+    position: relative;
+    left: 50px;
+}
+
+nav{
+    display: flex;
+    justify-content: space-around;
+}
